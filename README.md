@@ -40,4 +40,4 @@ Hans Prieto
 
 Email: hansmiguelpprieto@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/hans-prieto-b77124195/)
+LinkedIn: https://www.linkedin.com/in/hans-prieto-b77124195/
