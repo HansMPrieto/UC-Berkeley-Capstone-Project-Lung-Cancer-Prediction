@@ -23,7 +23,7 @@ This dataset contains information on patients with lung cancer, along with sever
 1000 Patients were included in the dataset.
 
 #### Methodology
-GridSearchCV was implemented. Models were trained on the training set, and validated with the test set. GridSearchCV was used to fine tune each of the model's hyperparameters. Afterwards, the Accuracy Score, Precision Score, Recall Score, and F1 score were computed for each of the models.
+GridSearchCV was implemented. Models were trained on the training set, and validated with the test set. GridSearchCV was used to fine tune each of the model's hyperparameters. Afterwards, the Accuracy Score, Precision Score, Recall Score, and F1 Score were computed for each of the models.
 
 #### Results
 The KNN and Support Vector Machine models had a test accuracy of 100%, which indicates that there was some overfitting for these models. Thus, the Precision Score, the Recall Score, and the F1 Score for the KNN and Support Vector Machine models were 100%. The Logistic Regression Model had a testing accuracy of 91%, while the Decision Tree Model had a testing accuracy of 94%. In terms of Precision Score, the Decision Tree model had a Precision Score of 93.7%, while the Logistic Regression model had a Precision Score of 90.8%. In terms of Recall Score, the Decision Tree model had a Recall Score of 93.7%, while the Logistic Regression model had a Recall Score of 90.7%. In terms of F1 Score, the Decision Tree model had a F1 Score of 93.7%, while the Logistic Regression model had a F1 score of 90.5%. According to these results, the Decision Tree Model was our best model at predicting the level of lung cancer for a patient, as it had a higher testing accuracy and a higher recall score than the Logistic Regression Model.
@@ -31,7 +31,7 @@ The KNN and Support Vector Machine models had a test accuracy of 100%, which ind
 
 #### Outline of project
 
-- [Link to notebook 1](http://localhost:8888/notebooks/OneDrive/Documents/UC%20Berkeley%20AI%20and%20ML%20Bootcamp/Detecting%20Lung%20Cancer/Lung%20Cancer%20Detection.ipynb)
+- [Link to notebook 1](https://github.com/HansMPrieto/UC-Berkeley-Capstone-Project-Lung-Cancer-Prediction/blob/main/Lung%20Cancer%20Detection.ipynb)
 
 
 ##### Contact and Further Information
